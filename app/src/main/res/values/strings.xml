@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AsusPhone</string>
+    <string name="content_text">Zenfone 6 yang merupakan smartphone terbaru produksi Asus telah resmi meluncur. Ponsel pintar ini mengusung mekanisme kamera unik yaitu flip. Dengan konsep ini, kamera belakang smartphone bakal memutar sehingga bisa menjadi kamera depan.</string>
+    <string name="content_spec_cpu">
+     Snapdragon 855 \n
+     GPU Adreno 640 \n
+     RAM 6GB/8GB \n
+     Internal 64GB/256GB</string>
+    <string name="content_spec_battery">5000 mAh \n
+    18W
+    </string>
+    <string name="content_spec_display">6,4 inch \n
+    Ratio To Body 92% \n
+    Gorilla Glass
+    </string>
+    <string name="content_spec_camera">
+        48MP \n
+        13MP
+    </string>
+    <string name="dummy_name">Asus Zenfone6</string>
+    <string name="dummy_harga">Rp.9.985.000</string>
+    <string name="spec_other">
+        USB Type C \n
+        Jack Audio 3,5mm \n
+        Slot Dual sim \n
+        NFC \n
+        4G LTE \n
+        ZEN UI 6 Androdi 9
+    </string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="cpu">CPU</string>
+    <string name="display">Display</string>
+    <string name="camera">Camera</string>
+    <string name="baterry">Battery</string>
+    <string name="other">Other</string>
+    <string name="beli">Beli</string>
+    <string name="chart">Add To Chart</string>
+</resources>
